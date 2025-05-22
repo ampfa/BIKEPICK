@@ -1,0 +1,21 @@
+[
+    {
+      "name": "Schwinn Phocus 1400",
+      "height": ["medium", "tall"],
+      "type": ["road"],
+      "terrain": ["paved"],
+      "budget": "mid",
+      "description": "Lightweight road bike with drop bars and quick shifting.",
+      "affiliateLink": "https://amzn.to/3example"
+    },
+    {
+      "name": "Mongoose Dolomite Fat Tire",
+      "height": ["tall"],
+      "type": ["mountain"],
+      "terrain": ["trails"],
+      "budget": "low",
+      "description": "Fat tire mountain bike for rough terrain and sand.",
+      "affiliateLink": "https://amzn.to/3example2"
+    }
+  ]
+  

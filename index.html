@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Which Bike Should I Get?</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="container">
+    <h1>Which Bike Should I Get?</h1>
+    <form id="bike-quiz">
+      <label>Your Height?</label>
+      <select name="height" required>
+        <option value="short">Under 5'5"</option>
+        <option value="medium">5'5"–5'10"</option>
+        <option value="tall">Over 5'10"</option>
+      </select>
+
+      <label>What Type of Riding?</label>
+      <select name="type" required>
+        <option value="road">Road Cycling</option>
+        <option value="mountain">Mountain Biking</option>
+        <option value="commuter">Commuting / Casual</option>
+      </select>
+
+      <label>What's your budget?</label>
+      <div class="checkbox-group">
+        <label><input type="checkbox" name="budget" value="low"> Under $500</label>
+        <label><input type="checkbox" name="budget" value="mid"> $500–$1000</label>
+        <label><input type="checkbox" name="budget" value="high"> $1000–$2000</label>
+        <label><input type="checkbox" name="budget" value="premium"> $2000+</label>
+      </div>
+
+      <label>Preferred Terrain?</label>
+      <select name="terrain" required>
+        <option value="paved">Paved Roads</option>
+        <option value="trails">Trails / Dirt</option>
+        <option value="mixed">Mixed Use</option>
+      </select>
+
+      <button type="submit">Find My Bike</button>
+    </form>
+
+    <div id="recommendation"></div>
+  </div>
+
+  <script src="bike-script.js"></script>
+</body>
+</html>
