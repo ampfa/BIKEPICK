@@ -1,110 +1,110 @@
 [
-    {
-      "name": "Schwinn Phocus 1400",
-      "height": ["medium", "tall"],
-      "type": ["road"],
-      "terrain": ["paved"],
-      "budget": "mid",
-      "description": "Lightweight road bike with drop bars and quick shifting.",
-      "affiliateLink": "https://amzn.to/example1"
-    },
-    {
-      "name": "Mongoose Dolomite Fat Tire",
-      "height": ["tall"],
-      "type": ["mountain"],
-      "terrain": ["trails"],
-      "budget": "low",
-      "description": "Fat tire mountain bike built for rough terrain and sand.",
-      "affiliateLink": "https://amzn.to/example2"
-    },
-    {
-      "name": "Sixthreezero EVRYjourney",
-      "height": ["short", "medium"],
-      "type": ["commuter"],
-      "terrain": ["paved", "mixed"],
-      "budget": "mid",
-      "description": "Comfortable hybrid cruiser perfect for casual city rides.",
-      "affiliateLink": "https://amzn.to/example3"
-    },
-    {
-      "name": "Raleigh Redux 1",
-      "height": ["medium"],
-      "type": ["commuter"],
-      "terrain": ["mixed"],
-      "budget": "high",
-      "description": "Tough urban bike with wide tires for mixed terrain.",
-      "affiliateLink": "https://amzn.to/example4"
-    },
-    {
-      "name": "Co-op Cycles DRT 1.1",
-      "height": ["short", "medium"],
-      "type": ["mountain"],
-      "terrain": ["trails"],
-      "budget": "mid",
-      "description": "Versatile hardtail mountain bike with a reliable suspension fork.",
-      "affiliateLink": "https://amzn.to/example5"
-    },
-    {
-      "name": "Tommaso Imola Endurance",
-      "height": ["medium", "tall"],
-      "type": ["road"],
-      "terrain": ["paved"],
-      "budget": "high",
-      "description": "Endurance road bike with high-performance components.",
-      "affiliateLink": "https://amzn.to/example6"
-    },
-    {
-      "name": "Retrospec Harper",
-      "height": ["short", "medium"],
-      "type": ["commuter"],
-      "terrain": ["paved"],
-      "budget": "low",
-      "description": "Minimalist single-speed commuter bike, lightweight and sleek.",
-      "affiliateLink": "https://amzn.to/example7"
-    },
-    {
-      "name": "Specialized Rockhopper Elite",
-      "height": ["medium", "tall"],
-      "type": ["mountain"],
-      "terrain": ["trails", "mixed"],
-      "budget": "high",
-      "description": "Premium hardtail MTB for serious trail riders.",
-      "affiliateLink": "https://amzn.to/example8"
-    },
-    {
-      "name": "Cannondale Topstone 2",
-      "height": ["medium", "tall"],
-      "type": ["road"],
-      "terrain": ["mixed"],
-      "budget": "premium",
-      "description": "Gravel bike built for both paved roads and light trails.",
-      "affiliateLink": "https://amzn.to/example9"
-    },
-    {
-      "name": "Priority Classic Plus",
-      "height": ["short", "medium"],
-      "type": ["commuter"],
-      "terrain": ["paved"],
-      "budget": "mid",
-      "description": "Rust-free, belt-drive bike perfect for city commutes.",
-      "affiliateLink": "https://amzn.to/example10"
-    },
-    {
-      "name": "Santa Cruz 5010",
-      "height": ["medium", "tall"],
-      "type": ["mountain"],
-      "terrain": ["trails"],
-      "budget": "premium",
-      "description": "High-end full suspension trail bike for aggressive riding.",
-      "affiliateLink": "https://amzn.to/example11"
-    },
-    {
-      "name": "Schwinn Discover Hybrid",
-      "height": ["short", "medium", "tall"],
-      "type": ["commuter"],
-      "terrain": ["paved", "mixed"],
-      "budget": "low",
-      "description": "Comfortable hybrid bike with rack and fenders.",
-      "affiliateLink": "https://amzn.to/example12"
-    }
-  ]  
+  {
+    "name": "Schwinn Phocus 1400",
+    "height": ["medium", "tall"],
+    "type": ["road"],
+    "terrain": ["paved"],
+    "budget": "mid",
+    "description": "Lightweight road bike with drop bars and quick shifting. Best for riders 5'5\" and up (recommended frame size: 54–62cm).",
+    "affiliateLink": "https://amzn.to/example1"
+  },
+  {
+    "name": "Mongoose Dolomite Fat Tire",
+    "height": ["tall"],
+    "type": ["mountain"],
+    "terrain": ["trails"],
+    "budget": "low",
+    "description": "Fat tire mountain bike built for rough terrain and sand. Best for riders over 5'10\" (recommended frame size: 58–62cm).",
+    "affiliateLink": "https://amzn.to/example2"
+  },
+  {
+    "name": "Sixthreezero EVRYjourney",
+    "height": ["short", "medium"],
+    "type": ["commuter"],
+    "terrain": ["paved", "mixed"],
+    "budget": "mid",
+    "description": "Comfortable hybrid cruiser perfect for casual city rides. Ideal for riders under 5'10\" (recommended frame size: 47–56cm).",
+    "affiliateLink": "https://amzn.to/example3"
+  },
+  {
+    "name": "Raleigh Redux 1",
+    "height": ["medium"],
+    "type": ["commuter"],
+    "terrain": ["mixed"],
+    "budget": "high",
+    "description": "Tough urban bike with wide tires for mixed terrain. Best for riders 5'5\" to 5'10\" (recommended frame size: 54–56cm).",
+    "affiliateLink": "https://amzn.to/example4"
+  },
+  {
+    "name": "Co-op Cycles DRT 1.1",
+    "height": ["short", "medium"],
+    "type": ["mountain"],
+    "terrain": ["trails"],
+    "budget": "mid",
+    "description": "Versatile hardtail mountain bike with a reliable suspension fork. Ideal for riders under 5'10\" (recommended frame size: 47–56cm).",
+    "affiliateLink": "https://amzn.to/example5"
+  },
+  {
+    "name": "Tommaso Imola Endurance",
+    "height": ["medium", "tall"],
+    "type": ["road"],
+    "terrain": ["paved"],
+    "budget": "high",
+    "description": "Endurance road bike with high-performance components. Best for riders 5'5\" and up (recommended frame size: 54–62cm).",
+    "affiliateLink": "https://amzn.to/example6"
+  },
+  {
+    "name": "Retrospec Harper",
+    "height": ["short", "medium"],
+    "type": ["commuter"],
+    "terrain": ["paved"],
+    "budget": "low",
+    "description": "Minimalist single-speed commuter bike, lightweight and sleek. Best for riders under 5'10\" (recommended frame size: 47–56cm).",
+    "affiliateLink": "https://amzn.to/example7"
+  },
+  {
+    "name": "Specialized Rockhopper Elite",
+    "height": ["medium", "tall"],
+    "type": ["mountain"],
+    "terrain": ["trails", "mixed"],
+    "budget": "high",
+    "description": "Premium hardtail MTB for serious trail riders. Best for riders 5'5\" and up (recommended frame size: 54–62cm).",
+    "affiliateLink": "https://amzn.to/example8"
+  },
+  {
+    "name": "Cannondale Topstone 2",
+    "height": ["medium", "tall"],
+    "type": ["road"],
+    "terrain": ["mixed"],
+    "budget": "premium",
+    "description": "Gravel bike built for both paved roads and light trails. Ideal for riders 5'5\" and up (recommended frame size: 54–62cm).",
+    "affiliateLink": "https://amzn.to/example9"
+  },
+  {
+    "name": "Priority Classic Plus",
+    "height": ["short", "medium"],
+    "type": ["commuter"],
+    "terrain": ["paved"],
+    "budget": "mid",
+    "description": "Rust-free, belt-drive bike perfect for city commutes. Best for riders under 5'10\" (recommended frame size: 47–56cm).",
+    "affiliateLink": "https://amzn.to/example10"
+  },
+  {
+    "name": "Santa Cruz 5010",
+    "height": ["medium", "tall"],
+    "type": ["mountain"],
+    "terrain": ["trails"],
+    "budget": "premium",
+    "description": "High-end full suspension trail bike for aggressive riding. Best for riders 5'5\" and up (recommended frame size: 54–62cm).",
+    "affiliateLink": "https://amzn.to/example11"
+  },
+  {
+    "name": "Schwinn Discover Hybrid",
+    "height": ["short", "medium", "tall"],
+    "type": ["commuter"],
+    "terrain": ["paved", "mixed"],
+    "budget": "low",
+    "description": "Comfortable hybrid bike with rack and fenders. Fits riders of all sizes (recommended frame sizes: 47–62cm based on height).",
+    "affiliateLink": "https://amzn.to/example12"
+  }
+]
